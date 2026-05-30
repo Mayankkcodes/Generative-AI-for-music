@@ -1,0 +1,26 @@
+[
+  {
+    "prompt": "Indian classical inspired plucked string note with tanpura-like drone texture",
+    "path": "/content/finetuned_samples/00_indian_classical_inspired_plucked_string_note_with_tanpura_like_drone_.wav"
+  },
+  {
+    "prompt": "Carnatic inspired violin phrase with sustained acoustic tone",
+    "path": "/content/finetuned_samples/01_carnatic_inspired_violin_phrase_with_sustained_acoustic_tone.wav"
+  },
+  {
+    "prompt": "Hindustani inspired bansuri-like melodic phrase with soft drone",
+    "path": "/content/finetuned_samples/02_hindustani_inspired_bansuri_like_melodic_phrase_with_soft_drone.wav"
+  },
+  {
+    "prompt": "Veena inspired plucked string improvisation with raga-like ornamentation",
+    "path": "/content/finetuned_samples/03_veena_inspired_plucked_string_improvisation_with_raga_like_ornamentati.wav"
+  },
+  {
+    "prompt": "Sitar-like acoustic plucked string phrase with Indian classical mood",
+    "path": "/content/finetuned_samples/04_sitar_like_acoustic_plucked_string_phrase_with_indian_classical_mood.wav"
+  },
+  {
+    "prompt": "Meditative Indian classical instrumental texture with sustained notes",
+    "path": "/content/finetuned_samples/05_meditative_indian_classical_instrumental_texture_with_sustained_notes.wav"
+  }
+]
